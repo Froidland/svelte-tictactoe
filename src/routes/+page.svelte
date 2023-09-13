@@ -138,7 +138,7 @@
 <div class="flex flex-col justify-center items-center gap-4 h-screen bg-zinc-900 text-white">
 	<div class="flex items-center gap-4">
 		<button
-			class="bg-white text-black px-2 py-2 rounded"
+			class="bg-red-900 text-white px-4 py-2 rounded hover:bg-red-800"
 			on:click={() => (board = generateBoard(boardSize, 'X'))}>Reset board</button
 		>
 	</div>
