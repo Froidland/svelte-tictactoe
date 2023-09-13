@@ -3,6 +3,13 @@
 	"description": "Basic TicTacToe game made with svelte.",
 	"author": "Francisco Hauva <phauva@gmail.com>",
 	"version": "0.0.1",
+	"keywords": [
+		"svelte",
+		"sveltekit",
+		"typescript",
+		"tictactoe",
+		"tailwindcss"
+	],
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
