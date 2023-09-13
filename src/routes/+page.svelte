@@ -158,7 +158,7 @@
 			</div>
 		{/each}
 	</div>
-	<div class="text-4xl font-bold text-center">
+	<div class="absolute text-4xl font-bold text-center bottom-56">
 		{#if gameWon}
 			<p><span class="text-pink-700">{currentPlayer}</span> has won the game!</p>
 		{/if}
